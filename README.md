@@ -1,2 +1,1 @@
- git remote remove origin
-   git remote add origin https://github.com/mahdivaez/shoppingpage.git
+"ReactJS Shipping Page Learning Project: Enhance your skills in ReactJS, HTML, and CSS with this web app. Select, manage products, view details, and calculate total amount. Join me on this learning journey!"
